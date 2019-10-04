@@ -61,3 +61,13 @@ google_verify:
 bing_verify:
 
 # Links to include in footer navigation
+
+valine_comment:
+  enable: true
+# app_id
+  leancloud_appid: Cbx4aVOJTFfuE02Ygtm222yU-gzGzoHsz
+# app_key
+  leancloud_appkey: WWSjptqMPoz1HdlcOpMKL8tT
+# placeholde
+  placeholder: “czy-czy"
+
