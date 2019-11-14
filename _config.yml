@@ -62,3 +62,7 @@ bing_verify:
 
 # Links to include in footer navigation
 
+
+ comment:
+              disqus: yourshortname
+
